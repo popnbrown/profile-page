@@ -1,0 +1,15 @@
+.nyu, .hc {
+    background-color: purple;
+    color: white;
+}
+
+.cu {
+    color: white;
+    background-color: blue;
+}
+
+p {
+    font-size: 32px;
+    font-weight: bold;
+    width: 200px;
+}
